@@ -1,0 +1,808 @@
+{
+    "_id" : "643964ba54567a50177b5bcb",
+    "nome" : "Computação para Dispositivos Móveis",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "cursado" : false,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "programacao",
+        "so",
+        "interfaces"
+    ],
+    "eletiva" : true,
+    "nucleo" : "nao"
+}
+{
+    "_id" : "643964ba54567a50177b5bcc",
+    "nome" : "Desenvolvimento Humano e Social",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 30,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "psicologia",
+        "sociologia",
+        "comunicacao"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bcd",
+    "nome" : "Engenharia de Software II",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "software"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bce",
+    "nome" : "Optativa I",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "eletiva" : "sim",
+    "nucleo" : "nao",
+    "area_conhecimento" : [
+
+    ],
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bcf",
+    "nome" : "Paradigmas de Linguagens de Programação",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd0",
+    "nome" : "Algoritmos e Programação",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 90,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "matematica",
+        "programacao"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd1",
+    "nome" : "Análise de Algoritmos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd2",
+    "nome" : "Antropologia e Cultura Brasileira",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd3",
+    "nome" : "Arquitetura e Organização de Computadores",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "eletronica",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd4",
+    "nome" : "Atividades Complementares",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+
+    ],
+    "eletiva" : "sim",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd5",
+    "nome" : "Banco de Dados I",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd6",
+    "nome" : "Banco de Dados II",
+    "pre_requisitos" : [
+        "banco de dados I"
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd7",
+    "nome" : "Cálculo I",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "matematica",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd8",
+    "nome" : "Circuitos Digitais",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "matematica",
+        "eletronica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bd9",
+    "nome" : "Compiladores",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "pratica",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bda",
+    "nome" : "Computação Gráfica",
+    "pre_requisitos" : [
+        "algoritmos e programação",
+        "cálculo I",
+        "estrutura de dados"
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "matematica",
+        "teoria",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bdb",
+    "nome" : "Comunicação",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "comunicacao",
+        "sociologia"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bdc",
+    "nome" : "Desafios Contemporâneos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "sociologia",
+        "comunicacao"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bdd",
+    "nome" : "Desenvolvimento de Software para Web",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "interface"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bde",
+    "nome" : "Engenharia de Software I",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "software"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bdf",
+    "nome" : "Estágio Supervisionado",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be0",
+    "nome" : "Estrutura de Dados",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be1",
+    "nome" : "Fundamentos de Redes de Computadores",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be2",
+    "nome" : "Fundamentos para Computação",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "teoria",
+        "matematica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be3",
+    "nome" : "Geometria Analítica e Álgebra Linear",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "matematica",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be4",
+    "nome" : "Gestão de Projetos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "teoria",
+        "software"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be5",
+    "nome" : "Inteligência Artificial",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be6",
+    "nome" : "Interface Humano-Computador",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "interface",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be7",
+    "nome" : "Introdução à Teoria dos Grafos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "teoria",
+        "desenvolvimento",
+        "programacao"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be8",
+    "nome" : "Laboratório de Redes de Computadores",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 8,
+    "area_conhecimento" : [
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5be9",
+    "nome" : "Laboratório de Software e Projetos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 8,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bea",
+    "nome" : "Linguagens Formais e Autômatos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "programacao",
+        "teoria",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5beb",
+    "nome" : "Matemática",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bec",
+    "nome" : "Metodologia Científica",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "desenvolvimento",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bed",
+    "nome" : "Microcontroladores",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bee",
+    "nome" : "Optativa II",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bef",
+    "nome" : "Pesquisa, Ordenação e Técnicas de Armazenamento",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "teoria",
+        "desenvolvimento"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf0",
+    "nome" : "Probabilidade e Estatística",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "matematica",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf1",
+    "nome" : "Processamento de Imagens",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "matematica",
+        "programacao",
+        "desenvolvimento",
+        "teoria",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf2",
+    "nome" : "Programação Orientada a Objetos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "programacao",
+        "desenvolvimento",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "nao",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf3",
+    "nome" : "Segurança e Auditoria de Sistemas",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf4",
+    "nome" : "Sistemas Distribuídos",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf5",
+    "nome" : "Sistemas Operacionais",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 5,
+    "area_conhecimento" : [
+        "so",
+        "teoria"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
+{
+    "_id" : "643964ba54567a50177b5bf6",
+    "nome" : "Técnicas de Programação",
+    "pre_requisitos" : [
+
+    ],
+    "carga_horaria" : 60,
+    "dificuldade" : 4,
+    "relevancia" : 4,
+    "creditos" : 4,
+    "area_conhecimento" : [
+        "programacao",
+        "pratica"
+    ],
+    "eletiva" : "nao",
+    "nucleo" : "sim",
+    "cursado" : false
+}
