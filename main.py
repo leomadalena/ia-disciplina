@@ -22,6 +22,7 @@ class PrototipoIA():
         self.listRecomendacao = []
         self.disciplinas = []
         self.listCreditos = []
+        self.qtdCreditos = int
 
 
     def regras(self):
@@ -99,11 +100,30 @@ class PrototipoIA():
         self.escolhasDisciplinas(checkbox_vars)
 
 
+    def telaCreditos(self):
+        def get_name():
+            creditos = entry.get()
+            self.qtdCreditos = int(creditos)
+            root.destroy()
+
+        root = tk.Tk()
+
+        label = tk.Label(root, text="Digite a quantidade de creditos:")
+        label.pack()
+
+        entry = tk.Entry(root)
+        entry.pack()
+
+        button = tk.Button(root, text="Enviar", command=get_name)
+        button.pack()
+
+        root.mainloop()
+
     def telaResultadoEscolha(self):
         """ Incializa a tela para exibir o resultado. """
         
 
-        limite_creditos = 30
+        limite_creditos = self.qtdCreditos
         soma = 0
 
         def exit_app():
@@ -172,6 +192,7 @@ class PrototipoIA():
 
 if __name__ == '__main__':
     ia = PrototipoIA()
+    ia.telaCreditos()
     ia.telaEscolhaDisciplina()
     ia.telaEscolhaAreaConhecimento()
     ia.regras()
